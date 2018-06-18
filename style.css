@@ -1,0 +1,41 @@
+body {
+    font-family:sans-serif;
+    color:black;
+    font-size:12px;
+    background-image:url(images/images.jpg);
+    background-size:cover;
+    width: 50%;
+    margin:auto;
+}
+
+h1{
+ background-color:hotpink;
+ border-bottom: solid 6px black;
+ text-align: center;
+}
+
+.malzemeler{
+    color: red;
+
+}
+
+.baslik{
+    color:blue;
+}
+
+p{
+    text-align: center;
+}
+
+#yazi{
+    color:brown;
+    font-family: fantasy;
+    font-size:20px;
+}
+
+img{
+    display: block;
+    border:dotted 5px hotpink;
+    border-radius:10%;
+    margin: auto;
+}
